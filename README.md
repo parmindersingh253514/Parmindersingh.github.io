@@ -8,8 +8,6 @@ author:
   
   email: "Parmindersingh368975@gmail.com"
 
-header_pages:
-  - index.md
 
 github_username: Parmindersingh253514 
 
