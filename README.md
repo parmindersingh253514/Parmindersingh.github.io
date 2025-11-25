@@ -1,13 +1,16 @@
-title: "Parminder singh"
+                                                     Parminder singh
+
+
 description: "Solving today's problem with tomorrow' logic."
-theme: minima
 
 author:
   name: "Parminder singh"
+  
   email: "Parmindersingh368975@gmail.com"
 
 header_pages:
   - index.md
 
 github_username: Parmindersingh253514 
+
 linkedin_username: parminder singh
