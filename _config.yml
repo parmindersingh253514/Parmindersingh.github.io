@@ -2,7 +2,7 @@ title: "Parminder singh"
 
 description: "Solving today's problem with tomorrow' logic."
 
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: pages-themes/minimal
 plugins:
 - jekyll-remote-theme
 
